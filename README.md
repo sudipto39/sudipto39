@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/sudipto-gayen-7416b622b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sudipto002gayen@gmail.com">
+  <a href="mailto:www.sudipto002gayen@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sudipto39">
