@@ -31,7 +31,7 @@
         <p align="center">Complete backend for an e-commerce platform with JWT authentication, product & order management.</p>
         <p align="center">
           <a href="https://github.com/sudipto39/Ecommerce-Backend">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudipto39&repo=Ecommerce-Backend&theme=tokyonight&hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=Ecommerce-Backend&theme=tokyonight&hide_border=true" />
           </a>
         </p>
       </td>
@@ -40,7 +40,7 @@
         <p align="center">AI chatbot experiments with NLP and Python automation.</p>
         <p align="center">
           <a href="https://github.com/sudipto39/AI-Chatbots">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudipto39&repo=AI-Chatbots&theme=tokyonight&hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=AI-Chatbots&theme=tokyonight&hide_border=true" />
           </a>
         </p>
       </td>
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipto39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudipto39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Most Used Languages" />
 </p>
 
 ---
