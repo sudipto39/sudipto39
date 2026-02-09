@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudipto39&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudipto39&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sudipto39&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak (via Vercel mirror)" />
 </p>
 
