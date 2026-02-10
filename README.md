@@ -35,12 +35,21 @@
           </a>
         </p>
       </td>
-      <td width="50%">
+      <!-- <td width="50%">
         <h3 align="center">🤖 AI Chatbots</h3>
         <p align="center">AI chatbot experiments with NLP and Python automation.</p>
         <p align="center">
           <a href="https://github.com/sudipto39/AI-Chatbots">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=AI-Chatbots&theme=tokyonight&hide_border=true" />
+          </a>
+        </p>
+      </td> -->
+      <td width="50%">
+        <h3 align="center">🤖 Learning-Management-System</h3>
+        <p align="center">An online Learning Management System (LMS) for students to access content, track progress, and complete assessments in one centralized platform</p>
+        <p align="center">
+          <a href="https://github.com/sudipto39/LMS.git">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=LMS&theme=tokyonight&hide_border=true" />
           </a>
         </p>
       </td>
