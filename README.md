@@ -45,11 +45,11 @@
         </p>
       </td> -->
       <td width="50%">
-        <h3 align="center">🤖 Learning-Management-System</h3>
-        <p align="center">An online Learning Management System (LMS) for students to access content, track progress, and complete assessments in one centralized platform</p>
+        <h3 align="center">🤖next.js-practice</h3>
+        <p align="center">A repo to practice NEXT.JS</p>
         <p align="center">
-          <a href="https://github.com/sudipto39/LMS.git">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=LMS&theme=tokyonight&hide_border=true" />
+          <a href="https://github.com/sudipto39/next.js-practice.git">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=next.js-practice&theme=tokyonight&hide_border=true" />
           </a>
         </p>
       </td>
