@@ -27,11 +27,11 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🛒 Ecommerce Backend</h3>
-        <p align="center">Complete backend for an e-commerce platform with JWT authentication, product & order management.</p>
+        <h3 align="center">🛒 Full-Stack Ecommerce</h3>
+        <p align="center">Complete e-commerce platform with JWT authentication, product & order management.</p>
         <p align="center">
-          <a href="https://github.com/sudipto39/Ecommerce-Backend">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=Ecommerce-Backend&theme=tokyonight&hide_border=true" />
+          <a href="https://github.com/sudipto39/Shop-Xpress">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=Shop-Xpress&theme=tokyonight&hide_border=true" />
           </a>
         </p>
       </td>
@@ -46,7 +46,7 @@
       </td> -->
       <td width="50%">
         <h3 align="center">🤖next.js-practice</h3>
-        <p align="center">A repo to practice NEXT.JS</p>
+        <p align="center">A repo to learn NEXT.JS and to upgrade myself to make production-level web apps </p>
         <p align="center">
           <a href="https://github.com/sudipto39/next.js-practice.git">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudipto39&repo=next.js-practice&theme=tokyonight&hide_border=true" />
