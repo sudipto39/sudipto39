@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 💡 Passionate about **building scalable backend systems**  
-💻 Skilled in **Next.js, Node.js, MongoDB, MySQL**  
+💻 Skilled in **Next.js, Node.js, MongoDB, PostgreSQL**  
 🔐 Focused on **API Security** and **Clean Architecture**  
 🚀 Exploring **Distributed Systems** & **Cloud Deployments**  
 
